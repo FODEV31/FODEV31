@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+Soy Fernando Ortega, un Ingeniero Informático de Valparaíso, Chile, que se está especializando en ciberseguridad.
+
+Me titulé en Ingeniería en Ejecución Informática y he complementado mi formación con varios cursos de seguridad. Actualmente, estoy terminando el bootcamp de ciberseguridad de Desafío Latam para fortalecer mis conocimientos.
+
+Anteriormente, fui Asistente de TI en Laboratorios KNOP, lo que me dio una valiosa experiencia práctica. Ahora, me estoy capacitando continuamente para tener las competencias necesarias y poder ayudar a mantener seguras las redes. Mi objetivo es aportar valor a través de mi dedicación y conocimientos en este campo tan crucial.
+
+
 <!--
 **FODEV31/FODEV31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
