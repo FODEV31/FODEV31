@@ -15,9 +15,7 @@ IPtables.
 #### 1. Bloqueo de Conexión a Internet
 Para demostrar cómo se bloquea la salida a internet, se creó una regla de 
 
-IPtable específica. Primero se desactivó el firewall y luego se configuró la regla para bloquear la conexión, lo cual fue probado con un comando 
-
-ping.
+IPtable específica. Primero se desactivó el firewall y luego se configuró la regla para bloquear la conexión, lo cual fue probado con un comando ping.
 
 ![Texto alternativo para la imagen](https://github.com/FODEV31/FODEV31/blob/main/Ilustraciones/IPtables.png)
 
